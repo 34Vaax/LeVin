@@ -1,0 +1,28 @@
+body
+{
+	background: #d6d6d6;
+}
+h1
+{
+	text-align: center;
+  	color: white;
+}
+
+h2
+{
+	text-align: left;
+  	color: #a20c0c;
+}
+
+
+p
+{
+	font-family: Arial;
+	color: black;
+}
+
+a
+{
+	text-align: center;
+  	color: black;
+}
